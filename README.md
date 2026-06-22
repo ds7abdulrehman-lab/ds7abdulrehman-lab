@@ -1,16 +1,43 @@
-# 💫 About Me:
-I enjoy working with data, solving problems, and transforming raw information into **clear and actionable insights**.
+# Abdul Rehman
 
-Currently focused on building expertise in:
+Data Analyst with 3+ years of experience in e-commerce analytics, business reporting, forecasting, and performance optimization.
 
-- SQL (queries, joins, subqueries, window functions)
-- Python for Data Science (Pandas, NumPy, Matplotlib)
-- Machine Learning fundamentals (Scikit-learn, model evaluation)
-- Business Intelligence and data storytelling with Power BI
+I work with **SQL, Power BI, Excel, and Python** to analyze business data, track KPIs, improve reporting, and support decision-making. My background combines commercial experience in e-commerce with technical skills in analytics, dashboarding, and machine learning.
 
-I’m actively seeking **Data Analyst / BI / Data Science internship opportunities** where I can apply analytical methods to real business problems.
+Currently pursuing a **Master's in International Data Science** and seeking opportunities in:
 
-Passionate about analytics, machine learning foundations, and continuous learning.
+Data Analyst | Business Intelligence Analyst | Reporting Analyst | E-commerce Analyst | Operations Analyst
+
+## About Me
+
+My professional background is rooted in **e-commerce analytics and growth**, where I used data to support decisions related to:
+
+sales performance | advertising performance | customer behavior | pricing strategy | inventory planning | keyword and listing optimization
+
+I am especially interested in roles where data is used to solve real business problems, improve decision-making, and create clear reporting for stakeholders.
+
+## Technical Skills
+
+- **SQL**: joins, aggregations, subqueries, filtering, business analysis
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, SHAP
+- **Power BI**: dashboards, DAX, data modeling, KPI reporting
+- **Excel**: advanced formulas, pivot tables, reporting, data cleaning
+- **Analytics**: forecasting, exploratory data analysis, model evaluation, data visualization
+
+
+## What I'm Working On
+
+I am currently focused on strengthening my portfolio in:
+
+- business-focused SQL case studies
+- Power BI dashboards with strong storytelling
+- Python projects for practical data analysis
+- analytics projects with clear business recommendations
+
+## Goals
+
+My goal is to build analytics solutions that are not only technically correct, but also useful for business teams and decision-makers.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9_abdul_rehman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-14238b160) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ds.7abdulrehman@gmail.com) 
